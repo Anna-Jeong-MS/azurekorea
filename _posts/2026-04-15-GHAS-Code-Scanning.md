@@ -59,12 +59,13 @@ featured: true
 ---
 
 ## 1. GHAS 기능별 역할과 설명
-
 ---
+
 |제품명|포함 기능|설명|
 |---|---|---|
 |**GitHub Code Security**|Code Scanning (CodeQL), Copilot Autofix, Security Campaigns, Premium Dependabot 기능, Dependency Review | 취약점 탐지·수정 중심 (SAST + SCA)
 |GitHub Secret Protection|Secret Scanning, Push Protection, AI 기반 비밀 탐지, Custom Patterns 등 |코드 안의 비밀(토큰/키) 누출 탐지·방지 중심|
+
 ---
 
 이 문서에서는 **GitHub Code Security** 영역을 다루며, 특히 **Code Scanning (CodeQL)** 과 **Dependabot** 기능에 집중하여 설명합니다. Secret Protection 관련 내용은 다음에 포스팅할, 별도의 문서에서 다루도록 하겠습니다.
